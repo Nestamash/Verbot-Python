@@ -1,0 +1,16 @@
+{
+  "name": "verbot-python",
+  "version": "1.0.0",
+  "description": "bot for verbit",
+  "main": "pythonBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.13",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
